@@ -1,0 +1,4 @@
+zombie DNA is a 16-digit integer
+each 2 digits is a different trait (eyes, head, etc.)
+
+
